@@ -58,6 +58,7 @@
                 <table style="margin: 0 auto;">
                    <tr>
                          <td> 
+                         dhushvgfs9i
                              <a href="pick.jsp?nome=<%=nome1%>&immagine=<%i%>"><img src="cartellaimmagini/<%=i%>.jpg" alt="actor" width="300" height="400"></a>
                          </td>
                          
